@@ -23,7 +23,7 @@ Here are a template notebooks for the analysis. Modify the notebooks as you need
 
 | Notebook               | Colab Link    | 
 | ---------------------- | -------------:|
-| 1. Data Exploration    |  [Colab] ()    |
-| 2. Data Preprocessing  |  [Colab] ()  |
-| 3. Data Transformation |  [Colab] () |
-| 4. Data Analysis       |  [Colab] ()       |
+| 1. Data Exploration    |  [Colab] (https://colab.research.google.com/gist/nischa564/4bc83b26bbf8e1be77b2bbce8790e3d0/1-data_exploration.ipynb)    |
+| 2. Data Preprocessing  |  [Colab] (https://colab.research.google.com/gist/nischa564/7887e01519e1cfabfee0883e46da8ed5/2-data_preprocessing.ipynb)  |
+| 3. Data Transformation |  [Colab] (https://colab.research.google.com/gist/nischa564/f45b4ce8a560016bfc23d3c2ccd9d005/3-data_transformation.ipynb) |
+| 4. Data Analysis       |  [Colab] (https://colab.research.google.com/gist/nischa564/6f4fa8117ca7345764d4f48bd68c34c6/4-data_analysis.ipynb)       |

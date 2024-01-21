@@ -23,4 +23,4 @@ Here are a template notebooks for the analysis. Modify the notebooks as you need
 
 | Notebook               | Colab Link    | 
 | ---------------------- | -------------:|
-| Data Analysis       |  [Colab](https://colab.research.google.com/gist/nischa564/512f2c56bfa41d2ad966ba0496fd8b39/data_analysis.ipynb)       |
+| Data Analysis       |  [Colab](https://colab.research.google.com/github/nischa564/product-sales-analysis/blob/main/notebooks/data_analysis.ipynb)       |
